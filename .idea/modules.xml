@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/MyApplication.androidApp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/MyApplication.androidApp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/MyApplication.androidApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/MyApplication.androidApp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/MyApplication.androidApp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/MyApplication.androidApp.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktopApp/MyApplication.desktopApp.jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/desktopApp/MyApplication.desktopApp.jvmMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktopApp/MyApplication.desktopApp.jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/desktopApp/MyApplication.desktopApp.jvmTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MyApplication.shared.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MyApplication.shared.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MyApplication.shared.desktopMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MyApplication.shared.desktopMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MyApplication.shared.desktopTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MyApplication.shared.desktopTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MyApplication.shared.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MyApplication.shared.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/MyApplication.shared.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/MyApplication.shared.unitTest.iml" />
+    </modules>
+  </component>
+</project>
